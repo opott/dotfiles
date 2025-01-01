@@ -1,0 +1,31 @@
+{
+    "githubPullRequests.pullBranch": "never",
+    "git.autofetch": true,
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.sideBar.location": "right",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "GitHub Dark",
+    "keyboard.layout": "00000809",
+    "workbench.editor.enablePreview": false,
+    "git.ignoreRebaseWarning": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "arcade-vsc.slackID": "U078VEJRBR7",
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "terminal.integrated.enableVisualBell": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "deepsource.installationUrl": "https://app.deepsource.com",
+    "deepsource.highlightAffectedLines": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
